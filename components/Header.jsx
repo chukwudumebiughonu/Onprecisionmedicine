@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import Link from 'next/Link';
+import Link from 'next/link';
 
 // const categories = [{name: 'Precision Medicine', slug: 'precision-medicine'}, { name: 'Precision Oncology', slug: 'precision-oncology'}]
 
